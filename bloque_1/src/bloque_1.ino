@@ -6,7 +6,7 @@ void setup() {
   Serial.begin(115200);
   // TODO: Configurar los pines de los LEDs como OUTPUT
   //HOLA COMO ESTAS
-  
+  pinMOde(23, OUTPUT);
   // TODO: Configurar el pin del pulsador como INPUT
   
 }
